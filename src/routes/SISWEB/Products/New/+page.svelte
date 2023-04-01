@@ -86,7 +86,7 @@
         <br />
         <br />
         <div class="container">
-            <a href="/Products/List"
+            <a href="/SISWEB/Products"
                 ><input id="cancel" type="reset" value="CANCEL" />
             </a>
             <input id="create" type="submit" value="CREATE" />

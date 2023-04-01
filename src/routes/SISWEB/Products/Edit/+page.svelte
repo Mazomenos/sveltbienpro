@@ -88,7 +88,7 @@
         <hr />
         <br />
         <br />
-        <a href="/Products/List"><input id="cancel" type="reset" value="CANCEL" /></a>
+        <a href="/SISWEB/Products"><input id="cancel" type="reset" value="CANCEL" /></a>
         <input id="update" type="submit" value="UPDATE" />
     </form>
 </main>

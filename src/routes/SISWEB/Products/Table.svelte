@@ -15,7 +15,7 @@
 
 <div>
   {#if mostrarModal}
-    <div class="fondo" on:click={cerrarModal} on:keydown={""} />
+    <div class="fondo" on:click={cerrarModal} />
     <div class="ventana-modal">
       <h2>Delete Product</h2>
       <hr />
